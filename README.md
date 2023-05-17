@@ -12,7 +12,7 @@
 
 - 📝 Checkout my personal portfolio page at [Binoy Manoj - Portfolio](https://binoymanoj.vercel.app/)
 
-- 💬 Ask me about **Linux, Burp, React js etc...**
+- 💬 Ask me about **Linux, Burp, React js, Next js etc...**
 
 - 📫 How to reach me **binoypm2002@gmail.com**
 
