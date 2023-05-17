@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **bug bounties and frontend development**
 
-- 📝 I regularly write articles on [https://binoymanoj.netlify.app/](https://binoymanoj.netlify.app/)
+- 📝 Checkout my personal portfolio page at [Binoy Manoj - Portfolio](https://binoymanoj.vercel.app/)
 
 - 💬 Ask me about **Linux, Burp, React js etc...**
 
