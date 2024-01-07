@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Binoy Manoj</h1>
-<h3 align="center">Cyber security enthusiast and Frontend developer.</h3>
+<h3 align="center">Cyber Security enthusiast, Penetration Tester and Full Stack Web Developer.</h3>
 <img align="right" alt="Coding-img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binoymanoj&label=Profile%20views&color=0e75b6&style=flat" alt="binoymanoj" /> </p>
@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **Front-end development projects and Bug hunting**
 
-- 📝 Checkout my personal portfolio page at [Binoy Manoj - Portfolio](https://binoymanoj.vercel.app/)
+- 📝 Checkout my personal portfolio page at [Binoy Manoj - Portfolio](https://binoymanoj.netlify.app/)
 
-- 💬 Ask me about **Linux, Burp, React js, Next js etc...**
+- 💬 Ask me about **Linux, Burp, React js, Next js, Node js etc...**
 
 - 📫 How to reach me **binoypm2002@gmail.com**
 
