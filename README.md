@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Penetration testing tools, Web development, Cybersecurity**
 
-- 👯 I’m looking to collaborate on **Front-end development projects and Bug hunting**
+- 👯 I’m looking to collaborate on **FullStack Development projects (Reactjs, Nextjs, Nodejs), Penetration Testing and Bug hunting**
 
 - 📝 Checkout my personal portfolio page at [Binoy Manoj - Portfolio](https://binoymanoj.netlify.app/)
 
