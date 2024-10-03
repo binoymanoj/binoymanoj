@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **FullStack Development projects (Reactjs, Nextjs, Nodejs), Penetration Testing and Bug hunting**
 
-- 📝 Checkout my personal portfolio page at [Binoy Manoj - Portfolio](https://binoymanoj.netlify.app/)
+- 📝 Checkout my personal portfolio page at [Binoy Manoj - Portfolio](https://binoymanoj.in/)
 
 - 💬 Ask me about **Linux, Burp, React js, Next js, Node js etc...**
 
