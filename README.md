@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/binoy_manoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binoy_manoj" height="30" width="40" /></a>
-<a href="https://twitter.com/binoy_manoj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binoy_manoj_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/binoy-manoj-29b5a3223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binoy-manoj-29b5a3223" height="30" width="40" /></a>
+<a href="https://x.com/bin0y_manoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binoy_manoj_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/binoymanoj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binoy-manoj-29b5a3223" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
