@@ -1,50 +1,52 @@
-<h1 align="center">Hi 👋, I'm Binoy Manoj</h1>
-<h3 align="center">Cyber Security enthusiast, Penetration Tester and Full Stack Web Developer.</h3>
-<img align="right" alt="Coding-img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<h1 align="center">Hi there 👋, I'm Binoy Manoj</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binoymanoj&label=Profile%20views&color=0e75b6&style=flat" alt="binoymanoj" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Cyber+Security+Enthusiast;Penetration+Tester;Full+Stack+Developer" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://x.com/bin0y_manoj" target="blank"><img src="https://img.shields.io/twitter/follow/bin0y_manoj?logo=twitter&style=for-the-badge" alt="binOy_manoj" /></a> </p>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding animation">
 
-- 🌱 I’m currently learning **Penetration testing tools, Web development, Cybersecurity**
+## About Me
+- 🔭 Passionate about **Cybersecurity** and **Web Development**
+- 🌱 Currently mastering **Penetration Testing** and **Full Stack Development**
+- 💻 Open for collaboration on **Full Stack Projects** and **Security Research**
+- 🎯 Check out my work at [binoymanoj.in](https://binoymanoj.in/)
+- 📫 Reach me at **binoypm2002@gmail.com**
 
-- 👯 I’m looking to collaborate on **FullStack Development projects (Reactjs, Nextjs, Nodejs), Penetration Testing and Bug hunting**
+## Tech Stack
+### Web Development
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 
-- 📝 Checkout my personal portfolio page at [Binoy Manoj - Portfolio](https://binoymanoj.in/)
+### Security & Tools
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAIDSURBVCiRfZJNaBNBGIafmd1sNCYx0gZE0YKngj+oUBVFK1YFsXgpCB7rgaJH24Mo4kHx4EXF9iB48CA9WFCkIF4EDxYkLYVaBWmFiojBJqlJk002md0Z95tkt4k6MPB+7/vM+8DMiGQyiW3bB4UQp4AjQM0GVABPKbXkOM5DKSVSyoZpmo50OnswFotNAanPH5d0o1JF+QGGYaCU6InH4+OGYeyqB0VRhA6gA/3BwUP9Qgg8z2M52GZ8LXH16dk7d6SUx4UQewEVRRGWZaG1RoVVvMBjcGiQ+fl5XNdldHTUzOfzF4QQt+LxOKZpolwPpTSBH7CyukKlUqFYLNLd3c3CwkJ/Mpm8n8lkzgM4jkO5XA58z2ep8IupqSlGRkbY1dNDIpFgbm6OSqWCbdtorYOFQmFICDFmmuYz27Zf2bYtpJSilErtl1IO9/f3H+/r6xtqb2+XhUJBp1IpEY1Gv87Ozj7IZrOvgVxXV1cm+Tc4BNwHkguLv748fjI1s3v3ntOO84UwbNDb20s2m30DXPwX+j+eBt4C14DjruvS0dHxDrgJ3AG+/wcGcAEYBy4Dl7TWB5RSM8Bj4BpwWylVrcWrA2sPqL1+wzTNA0qpWeAp8AR4prVeqwf/mRrwAdgEfALaas7vwKKU8htAeJ53ZGNj4ybQCuSAz8CyUur7n2+6GbTefy4JAAAAAElFTkSuQmCC)
 
-- 💬 Ask me about **Linux, Burp, React js, Next js, Node js etc...**
+### Other Tools
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
 
-- 📫 How to reach me **binoypm2002@gmail.com**
+## Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binoymanoj/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bin0y_manoj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/binoy_manoj)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/binoy_manoj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binoy_manoj" height="30" width="40" /></a>
-<a href="https://x.com/bin0y_manoj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binoy_manoj_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/binoymanoj/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binoy-manoj-29b5a3223" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binoymanoj&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="background:white; padding:2px; border-radius:64px" /> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="background:white; padding:2px; border-radius:64px"/> </a>  
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binoymanoj&show_icons=true&locale=en&layout=compact" alt="binoymanoj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binoymanoj&show_icons=true&locale=en" alt="binoymanoj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binoymanoj&" alt="binoymanoj" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=binoymanoj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoymanoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</div>
