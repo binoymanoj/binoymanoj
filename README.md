@@ -14,39 +14,56 @@
 - 📫 Reach me at **binoypm2002@gmail.com**
 
 ## Tech Stack
-### Web Development
+### Frontend Development
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-05122A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyOCAwQzU3LjMwOCAwIDAgNTcuMzA4IDAgMTI4YzAgNzAuNjkyIDU3LjMwOCAxMjggMTI4IDEyOGM3MC42OTIgMCAxMjgtNTcuMzA4IDEyOC0xMjhDMjU2IDU3LjMwOCAxOTguNjkyIDAgMTI4IDBabTAgMTg4LjczN2MtMzMuNTM0IDAtNjAuNzM3LTI3LjIwMy02MC43MzctNjAuNzM3YzAtMzMuNTM0IDI3LjIwMy02MC43MzcgNjAuNzM3LTYwLjczN2MzMy41MzQgMCA2MC43MzcgMjcuMjAzIDYwLjczNyA2MC43MzdDMTg4LjczNyAxNjEuNTM0IDE2MS41MzQgMTg4LjczNyAxMjggMTg4LjczN1oiLz48L3N2Zz4=)
 
-### Security & Tools
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAIDSURBVCiRfZJNaBNBGIafmd1sNCYx0gZE0YKngj+oUBVFK1YFsXgpCB7rgaJH24Mo4kHx4EXF9iB48CA9WFCkIF4EDxYkLYVaBWmFiojBJqlJk002md0Z95tkt4k6MPB+7/vM+8DMiGQyiW3bB4UQp4AjQM0GVABPKbXkOM5DKSVSyoZpmo50OnswFotNAanPH5d0o1JF+QGGYaCU6InH4+OGYeyqB0VRhA6gA/3BwUP9Qgg8z2M52GZ8LXH16dk7d6SUx4UQewEVRRGWZaG1RoVVvMBjcGiQ+fl5XNdldHTUzOfzF4QQt+LxOKZpolwPpTSBH7CyukKlUqFYLNLd3c3CwkJ/Mpm8n8lkzgM4jkO5XA58z2ep8IupqSlGRkbY1dNDIpFgbm6OSqWCbdtorYOFQmFICDFmmuYz27Zf2bYtpJSilErtl1IO9/f3H+/r6xtqb2+XhUJBp1IpEY1Gv87Ozj7IZrOvgVxXV1cm+Tc4BNwHkguLv748fjI1s3v3ntOO84UwbNDb20s2m30DXPwX+j+eBt4C14DjruvS0dHxDrgJ3AG+/wcGcAEYBy4Dl7TWB5RSM8Bj4BpwWylVrcWrA2sPqL1+wzTNA0qpWeAp8AR4prVeqwf/mRrwAdgEfALaas7vwKKU8htAeJ53ZGNj4ybQCuSAz8CyUur7n2+6GbTefy4JAAAAAElFTkSuQmCC)
-
-### Other Tools
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
+
+### DevOps & Deployment
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+### Security Tools & Operating Systems
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-05122A?style=flat&logo=kali-linux)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-05122A?style=flat&logo=arch-linux)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAIDSURBVCiRfZJNaBNBGIafmd1sNCYx0gZE0YKngj+oUBVFK1YFsXgpCB7rgaJH24Mo4kHx4EXF9iB48CA9WFCkIF4EDxYkLYVaBWmFiojBJqlJk002md0Z95tkt4k6MPB+7/vM+8DMiGQyiW3bB4UQp4AjQM0GVABPKbXkOM5DKSVSyoZpmo50OnswFotNAanPH5d0o1JF+QGGYaCU6InH4+OGYeyqB0VRhA6gA/3BwUP9Qgg8z2M52GZ8LXH16dk7d6SUx4UQewEVRRGWZaG1RoVVvMBjcGiQ+fl5XNdldHTUzOfzF4QQt+LxOKZpolwPpTSBH7CyukKlUqFYLNLd3c3CwkJ/Mpm8n8lkzgM4jkO5XA58z2ep8IupqSlGRkbY1dNDIpFgbm6OSqWCbdtorYOFQmFICDFmmuYz27Zf2bYtpJSilErtl1IO9/f3H+/r6xtqb2+XhUJBp1IpEY1Gv87Ozj7IZrOvgVxXV1cm+Tc4BNwHkguLv748fjI1s3v3ntOO84UwbNDb20s2m30DXPwX+j+eBt4C14DjruvS0dHxDrgJ3AG+/wcGcAEYBy4Dl7TWB5RSM8Bj4BpwWylVrcWrA2sPqL1+wzTNA0qpWeAp8AR4prVeqwf/mRrwAdgEfALaas7vwKKU8htAeJ53ZGNj4ybQCuSAz8CyUur7n2+6GbTefy4JAAAAAElFTkSuQmCC)
+![Metasploit](https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit)
+![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)
+![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)
 
 ## Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binoymanoj/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bin0y_manoj)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/binoy_manoj)
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binoymanoj&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+  <a href="https://linkedin.com/in/binoymanoj" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://x.com/bin0y_manoj" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>&nbsp;
+  <a href="https://instagram.com/binoy_manoj" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binoymanoj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoymanoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <h2>📊 GitHub Statistics</h2>
+</div>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=binoymanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoymanoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=binoymanoj&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
