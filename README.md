@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Cyber+Security+Enthusiast;Penetration+Tester;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding animation">
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding animation">
 
 ## About Me
 - 🔭 Passionate about **Cybersecurity** and **Web Development**
@@ -13,10 +13,13 @@
 - 🎯 Check out my work at [binoymanoj.in](https://binoymanoj.in/)
 - 📫 Reach me at **binoypm2002@gmail.com**
 
+<br>
+
 ## Tech Stack
 ### Frontend Development
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)
@@ -27,6 +30,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
 
 ### DevOps & Deployment
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
@@ -42,28 +46,32 @@
 ![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)
 ![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)
 
+<br>
+
 ## Let's Connect
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/binoymanoj" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://x.com/bin0y_manoj" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-  </a>&nbsp;
-  <a href="https://instagram.com/binoy_manoj" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Connect on LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+  <br><br>
+  <a href="https://x.com/bin0y_manoj" target="_blank">
+    <img src="https://img.shields.io/badge/Follow on X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <br><br>
+  <a href="https://instagram.com/binoy_manoj" target="_blank">
+    <img src="https://img.shields.io/badge/Follow on Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=binoymanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoymanoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="60%" height="200px" src="https://github-readme-stats.vercel.app/api?username=binoymanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> 
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoymanoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=binoymanoj&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=binoymanoj&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
