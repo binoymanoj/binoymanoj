@@ -11,7 +11,7 @@
 - 🌱 Currently mastering **Penetration Testing** and **Software Engineering**
 - 💻 Open for collaboration on **Full Stack Projects** and **Security Research**
 - 🎯 Check out my work at [binoymanoj.in](https://binoymanoj.in/)
-- 📫 Reach me at **binoymanoj02@gmail.com**
+- 📫 Reach me at **binoypm2002@gmail.com**
 
 <br>
 
