@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Binoy Manoj</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Cyber+Security+Enthusiast;Penetration+Tester;Full+Stack+Developer" alt="Typing SVG" />
+<!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Cyber+Security+Enthusiast;Penetration+Tester;Full+Stack+Developer" alt="Typing SVG" /> -->
 </div>
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding animation">
