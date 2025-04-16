@@ -7,8 +7,8 @@
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding animation">
 
 ## About Me
-- 🔭 Passionate about **Cybersecurity** and **Web Development**
-- 🌱 Currently mastering **Penetration Testing** and **Full Stack Development**
+- 🔭 Passionate about **Cybersecurity** and **Software Engineering**
+- 🌱 Currently mastering **Penetration Testing** and **Software Engineering**
 - 💻 Open for collaboration on **Full Stack Projects** and **Security Research**
 - 🎯 Check out my work at [binoymanoj.in](https://binoymanoj.in/)
 - 📫 Reach me at **binoypm2002@gmail.com**
