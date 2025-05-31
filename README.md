@@ -27,6 +27,7 @@
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-05122A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyOCAwQzU3LjMwOCAwIDAgNTcuMzA4IDAgMTI4YzAgNzAuNjkyIDU3LjMwOCAxMjggMTI4IDEyOGM3MC42OTIgMCAxMjgtNTcuMzA4IDEyOC0xMjhDMjU2IDU3LjMwOCAxOTguNjkyIDAgMTI4IDBabTAgMTg4LjczN2MtMzMuNTM0IDAtNjAuNzM3LTI3LjIwMy02MC43MzctNjAuNzM3YzAtMzMuNTM0IDI3LjIwMy02MC43MzcgNjAuNzM3LTYwLjczN2MzMy41MzQgMCA2MC43MzcgMjcuMjAzIDYwLjczNyA2MC43MzdDMTg4LjczNyAxNjEuNTM0IDE2MS41MzQgMTg4LjczNyAxMjggMTg4LjczN1oiLz48L3N2Zz4=)
 
 ### Backend & Database
+![Go Lang](httpsJ//img.shields.io/badge/-Golang-05122A?style=flat&logo=golang)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
@@ -75,3 +76,10 @@
 <div align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=binoymanoj&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
+
+## Pinned Repositories
+
+Here are some of my favorite projects:
+
+- [tmux-zenflow](https://github.com/binoymanoj/tmux-zenflow) — A minimal tmux workflow for focused development.
+- [hypr-arch-v2](https://github.com/binoymanoj/hypr-arch-v2) — My custom Hyprland Arch Linux setup.
