@@ -83,11 +83,11 @@ Here are some of my favorite and most notable projects:
 
 | Repository | Description |
 | --- | --- |
-| [🌿 tmux-zenflow](https://github.com/binoymanoj/tmux-zenflow) | A minimal tmux workflow for focused development. |
+| [🌿 tmux-zenflow](https://github.com/binoymanoj/tmux-zenflow) | A minimal tmux workflow plugin for focused development. |
 | [🎨 hypr-arch-v2](https://github.com/binoymanoj/hypr-arch-v2) | My custom Hyprland Arch Linux setup (v2) with optimized configs. |
 | [🖥️ Hypr-Arch](https://github.com/binoymanoj/Hypr-Arch) | Another refined Hyprland Arch Linux configuration setup. |
+| [⏱️ pomo](https://github.com/binoymanoj/pomo) | A lightweight CLI Pomodoro timer built for productivity. |
+| [🖥️ hyprmonitors](https://github.com/binoymanoj/hyprmonitors) | A tool(CLI) for managing and configuring Hyprland multi-monitor setups. |
 | [⚡ ollama-benchmark](https://github.com/binoymanoj/ollama-benchmark) | Benchmarking Ollama models with performance comparisons. |
-| [⏱️ pomo](https://github.com/binoymanoj/pomo) | A lightweight Pomodoro timer built for productivity. |
-| [🖥️ hyprmonitors](https://github.com/binoymanoj/hyprmonitors) | A tool for managing and configuring Hyprland multi-monitor setups. |
-| [📱 WAART](https://github.com/binoymanoj/WAART) | WhatsApp Automated Attack and Reconnaissance Toolkit. |
 | [🔑 jwt-auth-go](https://github.com/binoymanoj/jwt-auth-go) | JWT authentication boilerplate written in Go. |
+| [📱 WAART](https://github.com/binoymanoj/WAART) | Web Application Automated Reconnaissance Toolkit. |
