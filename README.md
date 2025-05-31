@@ -89,5 +89,6 @@ Here are some of my favorite and most notable projects:
 | [⏱️ pomo](https://github.com/binoymanoj/pomo) | A lightweight CLI Pomodoro timer built for productivity. |
 | [🖥️ hyprmonitors](https://github.com/binoymanoj/hyprmonitors) | A tool(CLI) for managing and configuring Hyprland multi-monitor setups. |
 | [⚡ ollama-benchmark](https://github.com/binoymanoj/ollama-benchmark) | Benchmarking Ollama models with performance comparisons. |
+| [🖥️ TabStacker](https://github.com/binoymanoj/TabStacker) | Browser Extension for managing bookmarks into groups. |
 | [🔑 jwt-auth-go](https://github.com/binoymanoj/jwt-auth-go) | JWT authentication boilerplate written in Go. |
 | [📱 WAART](https://github.com/binoymanoj/WAART) | Web Application Automated Reconnaissance Toolkit. |
