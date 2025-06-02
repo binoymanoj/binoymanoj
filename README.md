@@ -49,24 +49,13 @@
 
 <br>
 
-## Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/binoymanoj" target="_blank">
-    <img src="https://img.shields.io/badge/Connect on LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <br><br>
-  <a href="https://x.com/bin0y_manoj" target="_blank">
-    <img src="https://img.shields.io/badge/Follow on X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
-
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
 </div>
 
 <div align="center">
   <img width="60%" height="200px" src="https://github-readme-stats.vercel.app/api?username=binoymanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> 
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoymanoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoymanoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
