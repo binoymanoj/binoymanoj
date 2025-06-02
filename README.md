@@ -58,10 +58,6 @@
   <a href="https://x.com/bin0y_manoj" target="_blank">
     <img src="https://img.shields.io/badge/Follow on X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <br><br>
-  <a href="https://instagram.com/binoy_manoj" target="_blank">
-    <img src="https://img.shields.io/badge/Follow on Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </p>
 
 <div align="center">
