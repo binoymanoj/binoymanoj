@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Cyber+Security+Enthusiast;Penetration+Tester;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
-<!-- <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding animation"> -->
-
 ## About Me
 - 🔭 Passionate about **Cybersecurity** and **Software Engineering**
 - 🌱 Currently mastering **Penetration Testing** and **Software Engineering**
@@ -54,7 +52,7 @@
 </div>
 
 <div align="center">
-  <img width="50%" height="220px" src="https://github-readme-stats.vercel.app/api?username=binoymanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> 
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=binoymanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> 
   <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoymanoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
