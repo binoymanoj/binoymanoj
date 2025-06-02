@@ -54,7 +54,7 @@
 </div>
 
 <div align="center">
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=binoymanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> 
+  <img width="50%" height="210px" src="https://github-readme-stats.vercel.app/api?username=binoymanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> 
   <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoymanoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
