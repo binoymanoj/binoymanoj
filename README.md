@@ -5,7 +5,6 @@
 - 🎯 Check out my work at [binoymanoj.in](https://binoymanoj.in/)
 - 📫 Reach me at **binoymanoj02@gmail.com**
 
-## Tech Stack
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
@@ -15,7 +14,6 @@
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-05122A?style=flat&logo=arch-linux)
 ![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)
 
-<br>
 
 <div align="center">
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=binoymanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> 
