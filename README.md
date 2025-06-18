@@ -10,7 +10,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
-![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-05122A?style=flat&logo=arch-linux)
 ![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)
 
