@@ -1,7 +1,7 @@
 <h3>Hi there 👋, I'm Binoy Manoj</h1>
 
 #### About Me
-- 🔭 Passionate **Software Developer** and **Penetration Tester**
+- 🔭 **Software Developer** and **Penetration Tester**
 - 🎯 Check out my work at [binoymanoj.in](https://binoymanoj.in/)
 - 📫 Reach me at **binoymanoj02@gmail.com**
 
