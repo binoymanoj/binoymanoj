@@ -37,5 +37,6 @@ Here are some of my favorite and most notable projects:
 | [⚡ ollama-benchmark](https://github.com/binoymanoj/ollama-benchmark) | Benchmarking Ollama models with performance comparisons. |
 | [🔑 jwt-auth-go](https://github.com/binoymanoj/jwt-auth-go) | JWT authentication boilerplate written in Go. |
 | [🌐 url-shortener-go](https://github.com/binoymanoj/url-shortener-go) | URL Shortener Service written in Go. |
+| [👾 snake-game-go](https://github.com/binoymanoj/snake-game-go) | Simple Snake Game written in Go. |
 | [🖥️ TabStacker](https://github.com/binoymanoj/TabStacker) | Browser Extension for managing bookmarks into groups. |
 | [📱 WAART](https://github.com/binoymanoj/WAART) | Web Application Automated Reconnaissance Toolkit. |
