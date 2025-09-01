@@ -30,6 +30,8 @@ Here are some of my favorite and most notable projects:
 | Repository | Description |
 | --- | --- |
 | [🌿 tmux-zenflow](https://github.com/binoymanoj/tmux-zenflow) | A minimal tmux workflow plugin for focused development. |
+| [🌿 tmux-minimal-theme](https://github.com/binoymanoj/tmux-minimal-theme) | A minimal tmux theme (status line) for focused long productive hours. |
+| [🎨 dotfiles](https://github.com/binoymanoj/dotfiles) | My custom dotfiles for Archlinux + Hyprland. |
 | [🎨 hypr-arch-v2](https://github.com/binoymanoj/hypr-arch-v2) | My custom Hyprland Arch Linux setup (v2) with optimized configs. |
 | [🖥️ Hypr-Arch](https://github.com/binoymanoj/Hypr-Arch) | Another refined Hyprland Arch Linux configuration setup. |
 | [⏱️ pomo](https://github.com/binoymanoj/pomo) | A lightweight CLI Pomodoro timer built for productivity. |
