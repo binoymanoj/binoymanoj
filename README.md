@@ -15,15 +15,12 @@
 
 
 <div align="center">
-  <!-- <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=binoymanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />  -->
-  <!-- <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoymanoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=binoymanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58E1FF&icon_color=58E1FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoymanoj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58E1FF&text_color=C9D1D9" alt="Top Languages" />
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=binoymanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> 
+  <img width="40%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoymanoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <!-- <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=binoymanoj&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binoymanoj&theme=tokyonight&hide_border=true&background=0D1117&stroke=58E1FF&ring=58E1FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=binoymanoj&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ## 📌 Pinned Repositories
