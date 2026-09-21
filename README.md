@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=101315&stroke=343d41&strokeWidth=1&height=180&section=header&text=Binoy%20Manoj&fontSize=42&fontColor=cacccc&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20Systems%20%26%20Linux%20%E2%80%A2%20Cybersecurity&descSize=16&descAlignY=68&descAlign=50" width="100%" alt="Binoy Manoj Header" />
+  <img src="./assets/header.svg" width="100%" alt="Binoy Manoj Header" />
 
   <a href="https://github.com/binoymanoj">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=798186&center=true&vCenter=true&width=620&lines=Software+Developer+%26+Security+Researcher;Building+AI+agents+%26+Linux+desktop+tools;Crafting+minimal+workflows+for+Hyprland+%26+tmux" alt="Typing SVG" />
@@ -10,14 +10,14 @@
 
 ### 👤 About Me
 
-- 🔭 Building **[Jarvis](https://github.com/binoymanoj/jarvis)** — a voice-first, multi-turn AI desktop assistant for Linux & Hyprland.
+- 🔭 Building **[Jarvis](https://github.com/binoymanoj/jarvis)** — a voice-first, multi-turn AI desktop assistant for Linux System.
 - 💻 Focusing on **Systems Programming**, **Linux Desktop Automation**, and **Application Security / Pentesting**.
 - ⚡ Minimalist workstation enthusiast — passionate about keyboard-driven workflows (**Arch Linux**, **Hyprland**, **Neovim**, **tmux**).
 - 📫 Reach me at: **[binoymanoj02@gmail.com](mailto:binoymanoj02@gmail.com)**
 
 ---
 
-### 󰚩 Featured Project
+### 🤖 Featured Project
 
 <table>
   <tr>

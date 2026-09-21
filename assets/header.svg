@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 180" width="100%" height="180">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#101315" />
+      <stop offset="50%" stop-color="#14181b" />
+      <stop offset="100%" stop-color="#101315" />
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#343d41" stop-opacity="0" />
+      <stop offset="30%" stop-color="#798186" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#de6145" stop-opacity="0.9" />
+      <stop offset="70%" stop-color="#798186" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#343d41" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="dotGrid" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#343d41" fill-opacity="0.3" />
+    </pattern>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="854" height="180" rx="8" fill="url(#bg)" stroke="#343d41" stroke-width="1" />
+  <rect width="854" height="180" rx="8" fill="url(#dotGrid)" />
+
+  <!-- Terminal Window Dots -->
+  <circle cx="26" cy="24" r="5" fill="#de6145" opacity="0.85" />
+  <circle cx="42" cy="24" r="5" fill="#798186" opacity="0.65" />
+  <circle cx="58" cy="24" r="5" fill="#343d41" opacity="0.85" />
+
+  <!-- Title -->
+  <text x="427" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700" fill="#cacccc" text-anchor="middle" letter-spacing="3">BINOY MANOJ</text>
+
+  <!-- Divider Line -->
+  <rect x="227" y="100" width="400" height="2" rx="1" fill="url(#lineGrad)" />
+
+  <!-- Subtitle -->
+  <text x="427" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" fill="#798186" text-anchor="middle" letter-spacing="1.5">SOFTWARE DEVELOPER  •  SYSTEMS &amp; LINUX  •  CYBERSECURITY</text>
+</svg>
